@@ -1,0 +1,5 @@
+C:\Users\grick\source\repos\Laba7.2.a\bin\Debug\Laba7.2.a.exe.config
+C:\Users\grick\source\repos\Laba7.2.a\bin\Debug\Laba7.2.a.exe
+C:\Users\grick\source\repos\Laba7.2.a\bin\Debug\Laba7.2.a.pdb
+C:\Users\grick\source\repos\Laba7.2.a\obj\Debug\Laba7.2.a.exe
+C:\Users\grick\source\repos\Laba7.2.a\obj\Debug\Laba7.2.a.pdb

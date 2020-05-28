@@ -1,0 +1,10 @@
+11111111  Robotygy Audi  1000   20000
+45454545  Robotygy Roise 999999 2002
+43434344  Robotygy Ferar 1003   2
+23232323  Robotygy Merce 10124  2003
+21212121  Robotygy Porsh 1023   201
+87654321  Robotygy Audi  1333   200023
+12345678  Robotygy Audi  101312 20231
+21382222  Robotygy Audi  103232 202
+21312222  Robotygy Audi  100111 20034
+21355551  Robotygy Audi  100222 20045
